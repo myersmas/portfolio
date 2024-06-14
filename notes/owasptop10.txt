@@ -1,0 +1,9 @@
+Task 8 cryptograpghic failures- 
+Looked at the html code and clicked though different pages to look for notes
+after downloading webapp.dp I opened it and viewed the database structure 
+I then viewed the databases data and found the admins password hash
+
+6eea9b7ef19179a06954edd0f6c05ceb
+Then I put it into cracktation password to give me the plaintiffs password
+
+
